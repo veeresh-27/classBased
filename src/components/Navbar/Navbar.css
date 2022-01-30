@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #0F1111;
+  
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    padding: 24px 48px 12px;
+    top: 0;
+    left: 0;
+}
+.navbar .image{
+    background-color: #0F1111;
+    width: 100px;
+    
+
+}
+.navbar .image img{
+    width: 100%;
+    height: 100%;
+    
+}
