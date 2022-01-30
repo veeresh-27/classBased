@@ -1,7 +1,7 @@
 {
   "name": "classbased",
   "version": "0.1.0",
-  "homepage": "https://veeresh-27.github.io/classbased",
+  "homepage": "https://veeresh-27.github.io/classBased",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
